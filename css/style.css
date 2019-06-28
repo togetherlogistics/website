@@ -827,9 +827,9 @@ h3.w3l-titles:after,h2.w3l-titles:after {
   -ms-transition: 0.5s all;	
 }
 .w3ls-about-right-img{
-	background: url(../images/3.jpg) no-repeat 0px 0px;
-    object-fit: fill;
+	background: url(../images/3.jpg) no-repeat 0px 0px;        
     min-height: 470px;
+	background-size: contain;
 }
 /*-- //about --*/
 /*-- services --*/
