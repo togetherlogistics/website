@@ -828,7 +828,7 @@ h3.w3l-titles:after,h2.w3l-titles:after {
 }
 .w3ls-about-right-img{
 	background: url(../images/3.jpg) no-repeat 0px 0px;        
-    min-height: 470px;
+    min-height: 250;
 	background-size: contain;
 }
 /*-- //about --*/
