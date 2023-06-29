@@ -495,7 +495,7 @@ button.close {
 h3.wthree_head {
     text-align: center;
     font-size: 40px;
-    color: #4cdd48;
+    color: #00ff00;
     text-transform: uppercase;
     margin-bottom: 0;
 }
@@ -542,7 +542,7 @@ i.fa.fa-scissors {
 
 .client h5 {
     font-size: 25px;
-    color: #4cdd48;
+    color: #00ff00;
 }
 /*-- //clients--*/
 /*-- services-bottom --*/
@@ -607,7 +607,7 @@ span.fa.fa-trophy{
 }
 .w3_agile_stats_grid h4 {
     font-size: 1.3em;
-    color: #4cdd48;
+    color: #00ff00;
     margin: 1em 0 0;
     text-transform:uppercase;
     letter-spacing: 3px;
@@ -615,7 +615,7 @@ span.fa.fa-trophy{
     text-align: center;
 }
 .agile_count_grid_left span {
-    color: #4cdd48;
+    color: #00ff00;
     top: 5px;
 }
 .w3_agile_stats_grid {
@@ -664,17 +664,17 @@ h3.w3l-titles:before {
     width: 65px;
     height: 65px;
     text-align: center;
-    border: 1px solid #4cdd48;
+    border: 1px solid #00ff00;
 }
 .w3_two_grid_right1:hover .w3_two_grid_right_grid1{
-	background:#4cdd48;
+	background:#00ff00;
 }
 .w3_two_grid_right1:hover .w3_two_grid_right_grid1 i{
 	color:#fff;
 }
 .w3_two_grid_right_grid1 i{
 	font-size: 1.3em;
-    color: #4cdd48;
+    color: #00ff00;
     line-height: 3.1em;
 }
 .w3_two_grid_right_gridr h4 {
@@ -688,7 +688,7 @@ h3.w3l-titles:before {
 	line-height:2em;
 }
 h3.w3l-titles,h2.w3l-titles {
-    color: #4cdd48;
+    color: #00ff00;
 }
 h3.w3l-titles,h2.w3l-titles {
     font-size: 3em;
@@ -749,7 +749,7 @@ h3.w3l-titles:after,h2.w3l-titles:after {
     width: 80%;
 }
 .icon-left i.fa{
-    color: #4cdd48;
+    color: #00ff00;
     font-size: 2em;
 }
 .icon-right h5 {
@@ -794,7 +794,7 @@ h3.w3l-titles:after,h2.w3l-titles:after {
     left: 0;
     right: 0;
     bottom: 0;
-    background: #4cdd48;
+    background: #00ff00;
     border-radius: 100%;
     -webkit-transform: scale(0);
     transform: scale(0);
@@ -1118,7 +1118,7 @@ a.facebook {
 }
 .agileits_w3layouts_footer_grid h3{
 	font-size:1.5em;
-	color:#4cdd48;
+	color:#00ff00;
 	text-transform:capitalize;
 	margin-bottom:1em;
 }
@@ -1148,14 +1148,14 @@ a.facebook {
 }
 .w3_agileits_footer_grid h3{
 	font-size: 1.5em;
-    color: #4cdd48;
+    color: #00ff00;
     text-transform: capitalize;
     padding-left: 4em;
     position: relative;
 }
 .w3_agileits_footer_grid h3:before{
 	content: '';
-    background: #4cdd48;
+    background: #00ff00;
     height: 2px;
     width: 20%;
     position: absolute;
@@ -1198,7 +1198,7 @@ a.facebook {
     outline: none;
     border: none;
     width: 25%;
-    background: #4cdd48;
+    background: #00ff00;
     padding: 7px 6px;
     color: #fff;
     letter-spacing: 1px;
@@ -1216,7 +1216,7 @@ a.facebook {
     font-size: 13px;
 }
 .wthree_copy_right p a{
-	color:#4cdd48;
+	color:#00ff00;
 	text-decoration:noen;
 }
 .wthree_copy_right p a:hover{
@@ -1377,7 +1377,7 @@ section.contact-w3ls p.contact-agile1 a {
 section.contact-w3ls h4 {
     font-size: 2em;
     letter-spacing: 1px;
-    color: #4cdd48;
+    color: #00ff00;
     padding: 1em 0;
 }
 section.contact-w3ls p.contact-agile2 {
@@ -1429,8 +1429,8 @@ section.contact-w3ls button.btn.btn-primary {
 	transition:.5s all;
 }
 section.contact-w3ls button.btn.btn-primary:hover {
-    background-color:#4cdd48;
-    border: 2px solid #4cdd48;
+    background-color:#00ff00;
+    border: 2px solid #00ff00;
 	-webkit-transition:.5s all;
 	-moz-transition:.5s all;
 	-o-transition:.5s all;
@@ -1461,7 +1461,7 @@ section.contact-w3ls button.btn.btn-primary:hover {
 }
 .w3l-map {
     padding: 12px;
-    border: 10px solid #4cdd48;
+    border: 10px solid #00ff00;
 }
 h4.w3l-contact {
     margin-bottom: 1.5em;
@@ -1539,7 +1539,7 @@ h4.w3l-contact {
 }
 h3.icon-subheading {
     font-size: 28px;
-    color: #4cdd48 !important;
+    color: #00ff00 !important;
     margin: 30px 0 15px;
     font-weight: 600;
     letter-spacing: 2px;
@@ -1702,7 +1702,7 @@ li.list-group-item1 {
 }
 .grid_5 h3, .grid_5 h2, .grid_5 h1, .grid_5 h4, .grid_5 h5, h3.hdg, h3.bars {
     margin-bottom: 1em;
-    color: #4cdd48;
+    color: #00ff00;
     font-weight: 600;
     font-size: 30px;
     letter-spacing: 2px;
@@ -2360,7 +2360,7 @@ p.w3layouts_dummy_para {
 section.contact-w3ls h4 {
     font-size: 1.8em;
     letter-spacing: 1px;
-    color: #4cdd48;
+    color: #00ff00;
     padding: 1em 0;
 }
 }
