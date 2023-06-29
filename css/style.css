@@ -572,17 +572,17 @@ i.fa.fa-scissors {
 }
 /*-- counter--*/
 .agile_count_grid_left {
-    float: left;
-    width: 35%;
+    float: center;
+    width: 100%;
     text-align: center;
 }
 .agile_count_grid_left span,.agile_count_grid_right p{
 	font-size:2em;
 }
 .agile_count_grid_right {
-    float: left;
+    float: center;
     margin-left: 0em;
-    width: 60%;
+    width: 100%;
     text-align: center;
 }
 .agile_count_grid_left span.glyphicon.glyphicon-thumbs-up{
